@@ -233,8 +233,8 @@ echo "${RED}EJERCICIO 19...${NORMAL}"
 
 printf "\n"
 
-echo "QUE LA FUERZA TE ACOMPA;E"
-telnet towel.blinkenligths.nl
+echo "QUE LA FUERZA TE ACOMPAÑE"
+
 
 echo "${RED}PRACTICO 1 DE SCRITP TERMINADO PRESIONE CUALQUIER TECLA PARA SALIR DEL SCRIPT${NORMAL}"
 read -n 1
