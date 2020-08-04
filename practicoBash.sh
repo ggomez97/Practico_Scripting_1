@@ -30,7 +30,7 @@ echo "${RED}EL EJERCICIO TERMINO...PRESIONE CUALQUIER TECLA PARA CONTINUAR${NORM
 read -n 1 
 }
 Ejercicio2() {
-
+#ff
 clear
 echo "${RED}EJERCICIO 2...${NORMAL}"
 printf "\n"
